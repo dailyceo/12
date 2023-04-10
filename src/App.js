@@ -105,8 +105,8 @@ function App() {
   const blockchain = useSelector((state) => state.blockchain);
   const data = useSelector((state) => state.data);
   const [claimingNft, setClaimingNft] = useState(false);
-  const [feedback, setFeedback] = useState(`Click to mint your ELEMENTAI.`);
-  const [mintAmount, setMintAmount] = useState(1);
+  const [feedback, setFeedback] = useState(`Click to mint your PAPERLAND.`);
+  const [mintAmount, setMintAmount] = useState(2);
   const [CONFIG, SET_CONFIG] = useState({
     CONTRACT_ADDRESS: "",
     SCAN_LINK: "",
