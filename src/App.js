@@ -575,18 +575,6 @@ function App() {
 
 
 
-            <s.TextDescription
-              style={{
-                textAlign: "center",
-                fontSize: 30,
-                //fontWeight: "bold",
-                color: "var(--primary)",
-              }}
-            >
-
-              Welcome to PAPERLANDS, where imagination knows no bounds.
-
-            </s.TextDescription>
 
 
 
