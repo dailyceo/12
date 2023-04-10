@@ -533,7 +533,7 @@ function App() {
             <s.TextDescription
               style={{
                 textAlign: "center",
-                fontSize: 30,
+                fontSize: 40,
                 //fontWeight: "bold",
                 color: "var(--primary)",
               }}
@@ -548,7 +548,7 @@ function App() {
             <s.TextDescription
               style={{
                 textAlign: "center",
-                fontSize: 30,
+                fontSize: 40,
                 //fontWeight: "bold",
                 color: "var(--primary)",
               }}
@@ -562,7 +562,7 @@ function App() {
             <s.TextDescription
               style={{
                 textAlign: "center",
-                fontSize: 30,
+                fontSize: 40,
                 //fontWeight: "bold",
                 color: "var(--primary)",
               }}
